@@ -3,19 +3,23 @@
 ### Κατά την είσοδό μας στο σταθμό: 
 * Ανοίγουμε τα ηχεία
   
-  <img src="img/equipment1.jpg"  width="250"/>
+  <img src="img/equipment10.jpg"  width="250"/>
+  
 * Ανοίγουμε την Κονσόλα
   
-  <img src="img/equipment2.jpg"  width="250"/>
+  <img src="img/equipment4.jpg"  width="250"/>
+  
 * Ανοίγουμε τα ακουστικά
   
-  <img src="img/equipment3.jpg"  width="250"/>
+  <img src="img/equipment2.jpg"  width="250"/>
+  
 * Ανοίγουμε την οθόνη (ζητήστε μας τον κωδικό άμα δεν τον ξέρετε)
   
-  <img src="img/equipment4.jpg"  width="250"/>
+  <img src="img/equipment5.jpg"  width="250"/>
+  
 * Για να κάνουμε εκπομπή κατεβάζουμε το scheduler (κόκκινο κύκλος)  και ανεβάζουμε από το πρόγραμμα που θέλουμε να κάνουμε εκπομπή.
   
-  <img src="img/equipment5.jpg"  width="250"/>
+  <img src="img/equipment11.jpg"  width="250"/>
 
 ### Χρήση Κονσόλας:
 * Mic 1, 2: τα μικρόφωνα για τις εκπομπές
@@ -23,11 +27,25 @@
 * Ffox: Αναπαραγωγή από το YouTube
 * Scheduler: ο autopilot του σταθμού.
 
+  <img src="img/equipment1.jpg"  width="250"/>
+
 ### Στον Υπολογιστή ανοίγουμε τα εξής προγράμματα για μουσική:
 * VLC
+
+  <img src="img/equipment9.jpg"  width="250"/>
+
 * Audacious
+
+  <img src="img/equipment6.jpg"  width="250"/>
+
 * Files (η playlist του ραδιοφωνικού σταθμού στο Ηρακλειο)
-    Συνολικά τα αρχεία στον Υπολογιστή:
+
+  <img src="img/equipment3.jpg"  width="250"/>
+
+  Συνολικά τα αρχεία στον Υπολογιστή:
+  
+  <img src="img/equipment7.jpg"  width="250"/>
+
 
 > Σημείωση: Φυσικά υπάρχει η δυνατότητα χρήσης του Youtube 
 
