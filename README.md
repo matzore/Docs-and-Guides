@@ -19,4 +19,4 @@
 ### Guides
 * [Οδηγίες χρήσης online πλατφόρμας](https://github.com/matzore/Docs-and-Guides/blob/master/web_platform.md)
 * [Ομάδες εργασίας](https://github.com/matzore/Docs-and-Guides/blob/master/teams.md)
-* [Συνομιλία μέσω RIOT](https://github.com/matzore/Docs-and-Guides/blob/master/teams.md)
+* [Συνομιλία μέσω RIOT](https://github.com/matzore/Docs-and-Guides/blob/master/riot.md)
